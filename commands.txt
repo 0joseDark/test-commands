@@ -13,3 +13,10 @@ Arquivo de comandos criado.
 2024-06-25 21:54:53 | Tempo decorrido: 0:00:06 | Comando: UP
 2024-06-25 21:54:54 | Tempo decorrido: 0:00:07 | Comando: RIGHT
 2024-06-25 21:54:55 | Tempo decorrido: 0:00:08 | Comando: LEFT
+2024-06-25 21:58:36 | Tempo decorrido: 0:00:03 | Comando: UP
+2024-06-25 21:58:38 | Tempo decorrido: 0:00:04 | Comando: RIGHT
+2024-06-25 21:58:40 | Tempo decorrido: 0:00:06 | Comando: UP
+2024-06-25 21:58:41 | Tempo decorrido: 0:00:08 | Comando: RIGHT
+2024-06-25 21:58:43 | Tempo decorrido: 0:00:09 | Comando: LEFT
+2024-06-25 21:58:44 | Tempo decorrido: 0:00:11 | Comando: UP
+2024-06-25 21:58:46 | Tempo decorrido: 0:00:12 | Comando: RIGHT
