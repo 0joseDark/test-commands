@@ -48,3 +48,5 @@ Arquivo de comandos criado.
 2024-06-25 22:37:09 | Tempo desde último comando: 0h 0m 1s | Comando: RIGHT
 2024-06-25 22:37:10 | Tempo desde último comando: 0h 0m 1s | Comando: LEFT
 2024-06-25 22:37:11 | Tempo desde último comando: 0h 0m 1s | Comando: DOWN
+2024-06-25 23:22:07 | Tempo desde último comando: 0h 0m 3s | Comando: UP
+2024-06-25 23:22:12 | Tempo desde último comando: 0h 0m 5s | Comando: RIGHT

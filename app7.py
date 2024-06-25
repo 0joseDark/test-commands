@@ -46,6 +46,7 @@ def on_button_click(button, command, key):
     button.configure(bg="green")
     log_command(command)
     if target_window:
+        # Ativar a janela alvo antes de enviar o comando de tecla
         target_window.activate()
         pyautogui.press(key)
     button.after(200, lambda: button.configure(bg="SystemButtonFace"))
@@ -93,7 +94,7 @@ def list_windows():
     listbox_windows.delete(0, tk.END)
     windows = gw.getWindowsWithTitle("")
     for window in windows:
-        if window.visible and not window.isMinimized:  # Corrigido para usar 'visible'
+        if window.visible and not window.isMinimized:
             listbox_windows.insert(tk.END, window.title)
 
 # Função para selecionar a janela alvo
