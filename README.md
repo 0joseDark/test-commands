@@ -4,3 +4,4 @@
  # sudo apt-get install python3-tk
  # pip install pyautogui
  # pip install pillow
+ # pip install pygetwindow
