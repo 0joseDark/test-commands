@@ -31,3 +31,11 @@ Arquivo de comandos criado.
 2024-06-25 22:09:08 | Tempo decorrido: 0h 0m 10s | Comando: UP
 2024-06-25 22:09:09 | Tempo decorrido: 0h 0m 11s | Comando: RIGHT
 2024-06-25 22:09:10 | Tempo decorrido: 0h 0m 12s | Comando: LEFT
+2024-06-25 22:19:22 | Tempo desde último comando: 0h 0m 1s | Comando: UP
+2024-06-25 22:19:23 | Tempo desde último comando: 0h 0m 1s | Comando: RIGHT
+2024-06-25 22:19:24 | Tempo desde último comando: 0h 0m 1s | Comando: LEFT
+2024-06-25 22:19:26 | Tempo desde último comando: 0h 0m 1s | Comando: UP
+2024-06-25 22:19:29 | Tempo desde último comando: 0h 0m 3s | Comando: UP
+2024-06-25 22:19:31 | Tempo desde último comando: 0h 0m 1s | Comando: RIGHT
+2024-06-25 22:19:34 | Tempo desde último comando: 0h 0m 2s | Comando: UP
+2024-06-25 22:19:35 | Tempo desde último comando: 0h 0m 1s | Comando: LEFT
