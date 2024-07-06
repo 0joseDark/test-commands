@@ -109,3 +109,5 @@ Arquivo de comandos criado.
 2024-07-06 09:01:42 | Tempo desde último comando: 0h 0m 42s | Comando: up
 2024-07-06 09:01:46 | Tempo desde último comando: 0h 0m 4s | Comando: up
 2024-07-06 09:01:50 | Tempo desde último comando: 0h 0m 4s | Comando: up
+2024-07-06 09:17:37 | Tempo desde último comando: 0h 15m 47s | Comando: down
+2024-07-06 09:17:43 | Tempo desde último comando: 0h 0m 5s | Comando: down
